@@ -1,0 +1,196 @@
+CODE,NAME,MCV1_COVERAGE_2023
+MNE,Montenegro,24.0
+PRK,Democratic People's Republic of Korea,28.0
+CAF,Central African Republic,41.0
+YEM,Yemen,45.0
+SOM,Somalia,46.0
+GIN,Guinea,47.0
+AGO,Angola,50.0
+MDG,Madagascar,51.0
+SDN,Sudan,51.0
+BEN,Benin,52.0
+COD,Democratic Republic of the Congo,52.0
+PNG,Papua New Guinea,52.0
+AFG,Afghanistan,55.0
+BIH,Bosnia and Herzegovina,55.0
+NGA,Nigeria,60.0
+ETH,Ethiopia,61.0
+GNQ,Equatorial Guinea,61.0
+TCD,Chad,63.0
+MOZ,Mozambique,65.0
+HTI,Haiti,65.0
+COG,Congo,65.0
+GAB,Gabon,66.0
+BOL,Bolivia (Plurinational State of),68.0
+SLB,Solomon Islands,68.0
+VEN,Venezuela (Bolivarian Republic of),68.0
+CIV,Côte d'Ivoire,70.0
+COM,Comoros,70.0
+VUT,Vanuatu,70.0
+SUR,Suriname,71.0
+CMR,Cameroon,71.0
+GNB,Guinea-Bissau,72.0
+TLS,Timor-Leste,72.0
+TGO,Togo,72.0
+SSD,South Sudan,72.0
+LBY,Libya,73.0
+LBN,Lebanon,73.0
+MKD,North Macedonia,73.0
+MLI,Mali,73.0
+SYR,Syrian Arab Republic,74.0
+ECU,Ecuador,74.0
+MMR,Myanmar,74.0
+SEN,Senegal,76.0
+DJI,Djibouti,76.0
+MEX,Mexico,76.0
+HND,Honduras,77.0
+PAN,Panama,78.0
+ROU,Romania,78.0
+KIR,Kiribati,79.0
+KHM,Cambodia,79.0
+GMB,Gambia,80.0
+LAO,Lao People's Democratic Republic,80.0
+NER,Niger,80.0
+ZAF,South Africa,80.0
+ARG,Argentina,80.0
+PHL,Philippines,81.0
+CYP,Cyprus,82.0
+VNM,Viet Nam,82.0
+LBR,Liberia,82.0
+IDN,Indonesia,82.0
+GRD,Grenada,82.0
+ALB,Albania,83.0
+PRY,Paraguay,83.0
+PER,Peru,84.0
+COK,Cook Islands,84.0
+SRB,Serbia,84.0
+PAK,Pakistan,84.0
+NIC,Nicaragua,85.0
+MDA,Republic of Moldova,85.0
+LCA,Saint Lucia,85.0
+SWZ,Eswatini,85.0
+STP,Sao Tome and Principe,86.0
+NAM,Namibia,86.0
+BDI,Burundi,86.0
+BHS,Bahamas,86.0
+FSM,Micronesia (Federated States of),86.0
+BRA,Brazil,87.0
+MWI,Malawi,87.0
+WSM,Samoa,87.0
+DMA,Dominica,87.0
+LTU,Lithuania,87.0
+CZE,Czechia,87.0
+MCO,Monaco,88.0
+MHL,Marshall Islands,88.0
+GTM,Guatemala,88.0
+NZL,New Zealand,89.0
+PSE,"occupied Palestinian territory, including east Jerusalem",89.0
+NLD,Netherlands (Kingdom of the),89.0
+SMR,San Marino,89.0
+BRB,Barbados,89.0
+EST,Estonia,89.0
+IRL,Ireland,89.0
+TTO,Trinidad and Tobago,90.0
+SLE,Sierra Leone,90.0
+ZMB,Zambia,90.0
+ZWE,Zimbabwe,90.0
+VCT,Saint Vincent and the Grenadines,90.0
+HRV,Croatia,90.0
+GHA,Ghana,90.0
+LSO,Lesotho,90.0
+GBR,United Kingdom of Great Britain and Northern Ireland,90.0
+ISL,Iceland,91.0
+KEN,Kenya,91.0
+AUS,Australia,91.0
+TZA,United Republic of Tanzania,91.0
+POL,Poland,91.0
+UKR,Ukraine,92.0
+USA,United States of America,92.0
+BGR,Bulgaria,92.0
+MRT,Mauritania,92.0
+CAN,Canada,92.0
+BLZ,Belize,93.0
+JAM,Jamaica,93.0
+IND,India,93.0
+ERI,Eritrea,93.0
+CRI,Costa Rica,93.0
+SYC,Seychelles,93.0
+THA,Thailand,93.0
+UGA,Uganda,93.0
+SWE,Sweden,93.0
+NPL,Nepal,93.0
+COL,Colombia,93.0
+ATG,Antigua and Barbuda,94.0
+SVK,Slovakia,94.0
+CHL,Chile,94.0
+DOM,Dominican Republic,94.0
+JPN,Japan,94.0
+BFA,Burkina Faso,94.0
+FIN,Finland,94.0
+DNK,Denmark,95.0
+FRA,France,95.0
+GEO,Georgia,95.0
+MLT,Malta,95.0
+KNA,Saint Kitts and Nevis,95.0
+GUY,Guyana,95.0
+JOR,Jordan,95.0
+ITA,Italy,95.0
+CHE,Switzerland,95.0
+CPV,Cabo Verde,95.0
+TUR,Türkiye,95.0
+AUT,Austria,95.0
+SVN,Slovenia,95.0
+BEL,Belgium,96.0
+ARM,Armenia,96.0
+AZE,Azerbaijan,96.0
+URY,Uruguay,96.0
+TUN,Tunisia,96.0
+PLW,Palau,96.0
+NOR,Norway,96.0
+RWA,Rwanda,96.0
+MYS,Malaysia,96.0
+MNG,Mongolia,96.0
+LVA,Latvia,96.0
+MUS,Mauritius,96.0
+KGZ,Kyrgyzstan,96.0
+ESP,Spain,96.0
+EGY,Egypt,96.0
+GRC,Greece,97.0
+BGD,Bangladesh,97.0
+BRN,Brunei Darussalam,97.0
+BWA,Botswana,97.0
+DEU,Germany,97.0
+IRQ,Iraq,97.0
+KOR,Republic of Korea,97.0
+CHN,China,97.0
+BLR,Belarus,97.0
+SAU,Saudi Arabia,97.0
+RUS,Russian Federation,97.0
+SGP,Singapore,97.0
+TUV,Tuvalu,98.0
+PRT,Portugal,98.0
+NRU,Nauru,98.0
+TJK,Tajikistan,98.0
+ISR,Israel,98.0
+ARE,United Arab Emirates,98.0
+DZA,Algeria,99.0
+FJI,Fiji,99.0
+LKA,Sri Lanka,99.0
+LUX,Luxembourg,99.0
+MAR,Morocco,99.0
+MDV,Maldives,99.0
+HUN,Hungary,99.0
+IRN,Iran (Islamic Republic of),99.0
+KAZ,Kazakhstan,99.0
+KWT,Kuwait,99.0
+BTN,Bhutan,99.0
+CUB,Cuba,99.0
+AND,Andorra,99.0
+BHR,Bahrain,99.0
+SLV,El Salvador,99.0
+QAT,Qatar,99.0
+OMN,Oman,99.0
+NIU,Niue,99.0
+UZB,Uzbekistan,99.0
+TON,Tonga,99.0
+TKM,Turkmenistan,99.0
